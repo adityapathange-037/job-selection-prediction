@@ -2,7 +2,7 @@
 
 A lightweight binary classification model trained from scratch using gradient descent with $L_2$ weight regularization to predict job applicant hiring decisions based on CGPA and work experience[cite: 1].
 
-📄 **[Read the Full Research Paper (PDF)](./job_prediction_model_paper.pdf)**
+📄 **[Download / View Research Paper (PDF)](./job_prediction_model_paper.pdf?raw=true)**
 
 ---
 
